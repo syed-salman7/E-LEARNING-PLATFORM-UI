@@ -30,3 +30,8 @@ Deliverable:
 A visually appealing, multi-page E-Learning UI with responsive design and interactive features.
 
 ## OUTPUT
+<img width="1910" height="952" alt="Image" src="https://github.com/user-attachments/assets/07ad2d37-d52a-4b97-94e6-34b2730dbceb" />
+
+<img width="1919" height="1013" alt="Image" src="https://github.com/user-attachments/assets/73bbda98-c55d-4581-b977-bc86272e0ec3" />
+
+<img width="1917" height="1020" alt="Image" src="https://github.com/user-attachments/assets/1a589a4b-8d51-4511-af9f-2908393df4e0" />
